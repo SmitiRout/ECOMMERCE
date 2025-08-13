@@ -1,0 +1,501 @@
+OrderID,CustomerID,Product,Category,OrderDate,Region,Quantity,UnitPrice,Revenue,PaymentMethod
+ORD0001,CUST1071,Perfume,Beauty,28-09-2023,North,3,400.31,1200.93,Debit Card
+ORD0002,CUST1082,Headphones,Electronics,02-05-2023,North,1,302.46,302.46,PayPal
+ORD0003,CUST1099,Sofa,Home,29-03-2023,South,3,38.46,115.38,Credit Card
+ORD0004,CUST1001,Comics,Books,05-11-2023,South,4,356.96,1427.84,Cash on Delivery
+ORD0005,CUST1063,Comics,Books,21-01-2024,North,4,417.9,1671.6,Credit Card
+ORD0006,CUST1057,Biography,Books,04-04-2024,East,4,99.87,399.48,Debit Card
+ORD0007,CUST1058,Jacket,Clothing,19-04-2024,South,2,13.46,26.92,Credit Card
+ORD0008,CUST1059,Chair,Home,20-04-2024,East,3,78.35,235.05,Debit Card
+ORD0009,CUST1063,Jeans,Clothing,01-09-2023,South,4,124.06,496.24,Credit Card
+ORD0010,CUST1072,Lamp,Home,21-01-2023,South,1,32.76,32.76,Credit Card
+ORD0011,CUST1013,Jeans,Clothing,12-11-2023,East,3,16.5,49.5,Cash on Delivery
+ORD0012,CUST1052,Non-Fiction,Books,12-12-2023,West,2,198.85,397.7,PayPal
+ORD0013,CUST1059,Headphones,Electronics,02-01-2024,North,2,345.27,690.54,Credit Card
+ORD0014,CUST1077,Headphones,Electronics,04-02-2023,West,3,308.9,926.7,PayPal
+ORD0015,CUST1001,Biography,Books,23-01-2024,South,1,136.8,136.8,Debit Card
+ORD0016,CUST1003,Headphones,Electronics,16-04-2023,East,2,264.83,529.66,PayPal
+ORD0017,CUST1089,Smartphone,Electronics,06-02-2024,South,2,25.34,50.68,Cash on Delivery
+ORD0018,CUST1094,Foundation,Beauty,27-09-2023,North,4,470.35,1881.4,Debit Card
+ORD0019,CUST1086,Foundation,Beauty,06-04-2024,South,4,170,680,PayPal
+ORD0020,CUST1084,Foundation,Beauty,23-10-2023,North,4,32.16,128.64,Debit Card
+ORD0021,CUST1023,Headphones,Electronics,22-02-2023,West,4,376.19,1504.76,Debit Card
+ORD0022,CUST1040,Comics,Books,07-07-2023,East,2,482.98,965.96,PayPal
+ORD0023,CUST1088,Headphones,Electronics,06-03-2023,East,1,403.08,403.08,Credit Card
+ORD0024,CUST1007,Comics,Books,09-05-2023,East,3,217.47,652.41,PayPal
+ORD0025,CUST1080,Biography,Books,13-05-2024,West,4,16.9,67.6,PayPal
+ORD0026,CUST1004,Headphones,Electronics,16-10-2023,West,4,367.21,1468.84,Debit Card
+ORD0027,CUST1027,Foundation,Beauty,10-02-2023,West,2,185.65,371.3,Debit Card
+ORD0028,CUST1047,Laptop,Electronics,02-02-2023,West,3,426.52,1279.56,Credit Card
+ORD0029,CUST1043,Jacket,Clothing,09-04-2023,East,3,162.38,487.14,Credit Card
+ORD0030,CUST1002,Jeans,Clothing,06-04-2024,South,4,144.61,578.44,Debit Card
+ORD0031,CUST1013,Jacket,Clothing,17-05-2024,East,1,363.65,363.65,Credit Card
+ORD0032,CUST1014,Perfume,Beauty,26-07-2023,West,3,29.81,89.43,PayPal
+ORD0033,CUST1050,Foundation,Beauty,05-04-2024,North,2,22.46,44.92,Debit Card
+ORD0034,CUST1051,Smartphone,Electronics,29-08-2023,North,3,448.92,1346.76,PayPal
+ORD0035,CUST1022,Lotion,Beauty,29-04-2024,North,1,259.2,259.2,PayPal
+ORD0036,CUST1028,Sofa,Home,20-06-2023,North,3,211.09,633.27,PayPal
+ORD0037,CUST1085,Laptop,Electronics,31-08-2023,East,4,472,1888,Debit Card
+ORD0038,CUST1043,Non-Fiction,Books,28-01-2023,West,4,465.55,1862.2,PayPal
+ORD0039,CUST1091,Biography,Books,27-11-2023,West,4,447.35,1789.4,PayPal
+ORD0040,CUST1000,Chair,Home,13-08-2023,North,1,165.82,165.82,Cash on Delivery
+ORD0041,CUST1069,Biography,Books,16-09-2023,North,1,327.37,327.37,PayPal
+ORD0042,CUST1036,Shirt,Clothing,14-11-2023,West,4,271.7,1086.8,Credit Card
+ORD0043,CUST1031,Non-Fiction,Books,09-01-2024,West,1,68.73,68.73,Cash on Delivery
+ORD0044,CUST1061,Chair,Home,23-04-2023,North,4,283.47,1133.88,Cash on Delivery
+ORD0045,CUST1038,Chair,Home,25-09-2023,North,1,134.42,134.42,Debit Card
+ORD0046,CUST1058,Smartphone,Electronics,22-03-2023,South,2,359.01,718.02,Cash on Delivery
+ORD0047,CUST1053,Shoes,Clothing,08-08-2023,West,1,488.54,488.54,Debit Card
+ORD0048,CUST1000,Lipstick,Beauty,13-08-2023,North,3,146.54,439.62,Debit Card
+ORD0049,CUST1043,Comics,Books,22-02-2023,East,3,343.55,1030.65,PayPal
+ORD0050,CUST1067,Table,Home,20-02-2024,North,2,492.97,985.94,Cash on Delivery
+ORD0051,CUST1016,Sofa,Home,03-05-2023,West,3,383.19,1149.57,Cash on Delivery
+ORD0052,CUST1085,Jacket,Clothing,17-07-2023,West,3,403.54,1210.62,PayPal
+ORD0053,CUST1096,Sofa,Home,24-05-2023,East,3,410.05,1230.15,Cash on Delivery
+ORD0054,CUST1079,Table,Home,22-11-2023,East,1,167.18,167.18,Debit Card
+ORD0055,CUST1089,Jacket,Clothing,07-02-2024,South,1,430.6,430.6,Credit Card
+ORD0056,CUST1095,Shoes,Clothing,28-05-2023,West,3,406.66,1219.98,Credit Card
+ORD0057,CUST1000,Perfume,Beauty,04-12-2023,North,3,95.44,286.32,Credit Card
+ORD0058,CUST1049,Jacket,Clothing,17-04-2024,South,3,177.12,531.36,PayPal
+ORD0059,CUST1098,Jeans,Clothing,25-10-2023,South,3,275.31,825.93,Cash on Delivery
+ORD0060,CUST1059,Tablet,Electronics,12-12-2023,West,3,333.39,1000.17,Credit Card
+ORD0061,CUST1011,Lipstick,Beauty,31-10-2023,East,1,128.51,128.51,Credit Card
+ORD0062,CUST1098,Table,Home,09-01-2023,East,1,451.2,451.2,Debit Card
+ORD0063,CUST1019,Biography,Books,11-05-2023,West,3,365.72,1097.16,Cash on Delivery
+ORD0064,CUST1037,Shoes,Clothing,24-02-2024,North,4,208.21,832.84,Credit Card
+ORD0065,CUST1088,Headphones,Electronics,15-08-2023,West,4,307.15,1228.6,PayPal
+ORD0066,CUST1065,Jeans,Clothing,04-12-2023,South,3,487.1,1461.3,Cash on Delivery
+ORD0067,CUST1067,Table,Home,10-06-2023,East,2,229.73,459.46,Credit Card
+ORD0068,CUST1007,Smartphone,Electronics,18-05-2024,East,1,252.01,252.01,Cash on Delivery
+ORD0069,CUST1047,Shoes,Clothing,02-02-2023,West,3,363.26,1089.78,Debit Card
+ORD0070,CUST1021,Comics,Books,14-04-2024,West,4,259.32,1037.28,PayPal
+ORD0071,CUST1050,Fiction,Books,18-08-2023,North,2,299.04,598.08,Debit Card
+ORD0072,CUST1097,Jeans,Clothing,27-01-2023,West,2,453.99,907.98,Debit Card
+ORD0073,CUST1063,Foundation,Beauty,11-10-2023,West,1,256.29,256.29,Cash on Delivery
+ORD0074,CUST1034,Jacket,Clothing,30-05-2024,South,1,105.67,105.67,PayPal
+ORD0075,CUST1043,Chair,Home,17-01-2023,West,4,326.28,1305.12,Debit Card
+ORD0076,CUST1005,Tablet,Electronics,15-02-2023,South,4,240.27,961.08,Cash on Delivery
+ORD0077,CUST1023,Smartphone,Electronics,06-02-2023,West,3,376.38,1129.14,Credit Card
+ORD0078,CUST1094,Lotion,Beauty,30-06-2023,East,1,219.81,219.81,Debit Card
+ORD0079,CUST1062,Biography,Books,26-04-2023,West,3,490.36,1471.08,Debit Card
+ORD0080,CUST1066,Comics,Books,10-06-2023,North,1,198.7,198.7,Debit Card
+ORD0081,CUST1045,Foundation,Beauty,19-11-2023,East,4,192.62,770.48,Cash on Delivery
+ORD0082,CUST1001,Perfume,Beauty,04-06-2023,West,4,112.37,449.48,Credit Card
+ORD0083,CUST1042,Lipstick,Beauty,28-01-2024,West,2,372.98,745.96,Cash on Delivery
+ORD0084,CUST1041,Headphones,Electronics,21-04-2024,East,2,186.15,372.3,Debit Card
+ORD0085,CUST1012,Jeans,Clothing,12-02-2024,South,3,215.69,647.07,Debit Card
+ORD0086,CUST1044,Fiction,Books,05-02-2023,West,4,260.56,1042.24,Credit Card
+ORD0087,CUST1015,Shirt,Clothing,26-05-2024,North,4,328.48,1313.92,PayPal
+ORD0088,CUST1014,Smartphone,Electronics,15-04-2024,North,2,446.1,892.2,Credit Card
+ORD0089,CUST1024,Tablet,Electronics,20-02-2023,North,4,293.64,1174.56,Debit Card
+ORD0090,CUST1021,Table,Home,05-05-2023,East,2,275.9,551.8,Cash on Delivery
+ORD0091,CUST1051,Shirt,Clothing,01-11-2023,South,2,431.6,863.2,Cash on Delivery
+ORD0092,CUST1059,Headphones,Electronics,23-02-2023,North,2,413.07,826.14,Debit Card
+ORD0093,CUST1059,Smartphone,Electronics,22-02-2023,East,1,265.9,265.9,Debit Card
+ORD0094,CUST1067,Non-Fiction,Books,13-04-2023,East,4,482.97,1931.88,Cash on Delivery
+ORD0095,CUST1046,Table,Home,16-12-2023,West,2,35.32,70.64,Cash on Delivery
+ORD0096,CUST1029,Headphones,Electronics,26-09-2023,North,3,322.34,967.02,PayPal
+ORD0097,CUST1054,Lotion,Beauty,27-02-2023,North,3,399.64,1198.92,Credit Card
+ORD0098,CUST1061,Shirt,Clothing,27-04-2023,North,2,22.42,44.84,Debit Card
+ORD0099,CUST1000,Perfume,Beauty,27-02-2023,South,3,219.87,659.61,Debit Card
+ORD0100,CUST1047,Fiction,Books,28-04-2023,North,3,132.62,397.86,PayPal
+ORD0101,CUST1060,Headphones,Electronics,29-09-2023,North,1,333.5,333.5,PayPal
+ORD0102,CUST1066,Biography,Books,04-09-2023,South,3,331.98,995.94,PayPal
+ORD0103,CUST1085,Lipstick,Beauty,10-03-2024,East,4,287.36,1149.44,Credit Card
+ORD0104,CUST1068,Shoes,Clothing,08-08-2023,West,1,177.52,177.52,Debit Card
+ORD0105,CUST1075,Smartphone,Electronics,28-03-2024,North,3,29.96,89.88,Credit Card
+ORD0106,CUST1084,Shirt,Clothing,07-03-2024,West,4,57.94,231.76,Debit Card
+ORD0107,CUST1093,Shoes,Clothing,11-09-2023,West,3,179.69,539.07,Debit Card
+ORD0108,CUST1068,Shoes,Clothing,05-06-2024,West,1,205.27,205.27,Debit Card
+ORD0109,CUST1009,Lipstick,Beauty,11-08-2023,West,4,32.2,128.8,Cash on Delivery
+ORD0110,CUST1003,Tablet,Electronics,21-11-2023,West,2,467.38,934.76,Debit Card
+ORD0111,CUST1091,Non-Fiction,Books,15-09-2023,North,4,44.58,178.32,Debit Card
+ORD0112,CUST1032,Smartphone,Electronics,15-01-2024,South,4,321.84,1287.36,Credit Card
+ORD0113,CUST1011,Smartphone,Electronics,02-03-2024,West,1,407.49,407.49,Cash on Delivery
+ORD0114,CUST1073,Chair,Home,17-06-2023,North,3,412.01,1236.03,PayPal
+ORD0115,CUST1011,Fiction,Books,01-02-2024,North,3,105.94,317.82,Credit Card
+ORD0116,CUST1034,Comics,Books,10-09-2023,North,3,194.86,584.58,PayPal
+ORD0117,CUST1006,Jacket,Clothing,22-02-2024,North,3,44.88,134.64,Debit Card
+ORD0118,CUST1074,Laptop,Electronics,07-05-2024,West,4,349.52,1398.08,Cash on Delivery
+ORD0119,CUST1035,Jeans,Clothing,04-10-2023,South,1,29.2,29.2,PayPal
+ORD0120,CUST1098,Headphones,Electronics,11-07-2023,East,2,217.5,435,PayPal
+ORD0121,CUST1023,Sofa,Home,06-04-2023,East,1,368.51,368.51,Credit Card
+ORD0122,CUST1011,Headphones,Electronics,06-02-2023,South,3,466.07,1398.21,PayPal
+ORD0123,CUST1088,Smartphone,Electronics,06-10-2023,North,1,343.12,343.12,Cash on Delivery
+ORD0124,CUST1061,Tablet,Electronics,30-09-2023,East,3,60.53,181.59,Cash on Delivery
+ORD0125,CUST1012,Biography,Books,08-12-2023,East,4,414.96,1659.84,Cash on Delivery
+ORD0126,CUST1060,Perfume,Beauty,31-01-2024,North,3,58.99,176.97,Credit Card
+ORD0127,CUST1070,Biography,Books,22-09-2023,East,1,425.1,425.1,Credit Card
+ORD0128,CUST1051,Perfume,Beauty,19-01-2024,East,4,475.53,1902.12,Debit Card
+ORD0129,CUST1068,Tablet,Electronics,24-05-2023,North,3,251.58,754.74,Credit Card
+ORD0130,CUST1099,Shirt,Clothing,13-04-2024,West,3,305.2,915.6,Cash on Delivery
+ORD0131,CUST1052,Lotion,Beauty,08-02-2023,North,1,397.87,397.87,Credit Card
+ORD0132,CUST1094,Table,Home,02-02-2024,East,2,487.38,974.76,Debit Card
+ORD0133,CUST1092,Sofa,Home,03-08-2023,East,2,226.35,452.7,Debit Card
+ORD0134,CUST1073,Headphones,Electronics,09-01-2023,West,3,355.86,1067.58,Credit Card
+ORD0135,CUST1006,Jacket,Clothing,10-09-2023,West,2,312.93,625.86,Credit Card
+ORD0136,CUST1008,Sofa,Home,19-06-2023,South,2,353.47,706.94,Credit Card
+ORD0137,CUST1004,Headphones,Electronics,13-07-2023,West,2,447.03,894.06,Debit Card
+ORD0138,CUST1007,Headphones,Electronics,05-12-2023,West,1,51.57,51.57,Credit Card
+ORD0139,CUST1016,Lipstick,Beauty,08-12-2023,East,4,432.94,1731.76,PayPal
+ORD0140,CUST1003,Headphones,Electronics,28-10-2023,West,3,454.77,1364.31,Debit Card
+ORD0141,CUST1018,Lotion,Beauty,19-02-2024,North,4,194.37,777.48,Credit Card
+ORD0142,CUST1090,Comics,Books,16-06-2023,East,1,195.21,195.21,Cash on Delivery
+ORD0143,CUST1066,Headphones,Electronics,08-02-2023,West,2,454.11,908.22,Debit Card
+ORD0144,CUST1057,Lamp,Home,08-08-2023,South,1,15.56,15.56,Credit Card
+ORD0145,CUST1038,Fiction,Books,27-12-2023,North,4,68.22,272.88,Debit Card
+ORD0146,CUST1061,Headphones,Electronics,14-12-2023,North,1,343.71,343.71,Credit Card
+ORD0147,CUST1024,Headphones,Electronics,04-01-2024,East,1,193.69,193.69,Credit Card
+ORD0148,CUST1005,Headphones,Electronics,27-04-2023,South,4,268.9,1075.6,PayPal
+ORD0149,CUST1060,Laptop,Electronics,22-06-2023,East,2,15.96,31.92,Debit Card
+ORD0150,CUST1074,Perfume,Beauty,01-08-2023,North,3,446.66,1339.98,PayPal
+ORD0151,CUST1018,Biography,Books,15-08-2023,East,4,46.16,184.64,Debit Card
+ORD0152,CUST1048,Shirt,Clothing,16-02-2023,West,4,46.96,187.84,Debit Card
+ORD0153,CUST1053,Foundation,Beauty,27-05-2024,North,2,154.3,308.6,Cash on Delivery
+ORD0154,CUST1056,Perfume,Beauty,15-04-2024,North,2,198.26,396.52,Credit Card
+ORD0155,CUST1075,Jacket,Clothing,24-12-2023,East,3,147.67,443.01,Credit Card
+ORD0156,CUST1091,Shoes,Clothing,08-01-2023,East,4,313.86,1255.44,Cash on Delivery
+ORD0157,CUST1049,Biography,Books,12-11-2023,East,4,237.21,948.84,Cash on Delivery
+ORD0158,CUST1099,Lipstick,Beauty,10-02-2023,West,4,48.09,192.36,PayPal
+ORD0159,CUST1072,Jeans,Clothing,25-05-2023,South,4,232.09,928.36,PayPal
+ORD0160,CUST1091,Fiction,Books,05-04-2024,North,1,211.49,211.49,Credit Card
+ORD0161,CUST1005,Headphones,Electronics,10-09-2023,South,4,89.68,358.72,PayPal
+ORD0162,CUST1009,Lipstick,Beauty,25-03-2024,East,2,214.15,428.3,Cash on Delivery
+ORD0163,CUST1004,Table,Home,08-09-2023,North,4,439.56,1758.24,Cash on Delivery
+ORD0164,CUST1064,Tablet,Electronics,09-01-2024,North,3,211.52,634.56,Cash on Delivery
+ORD0165,CUST1010,Foundation,Beauty,26-06-2023,North,2,493.77,987.54,Debit Card
+ORD0166,CUST1085,Tablet,Electronics,05-08-2023,West,1,377.29,377.29,Cash on Delivery
+ORD0167,CUST1032,Biography,Books,05-04-2024,West,3,422.64,1267.92,Debit Card
+ORD0168,CUST1000,Table,Home,25-05-2024,North,2,28.04,56.08,Cash on Delivery
+ORD0169,CUST1091,Biography,Books,01-06-2024,East,1,37.62,37.62,Debit Card
+ORD0170,CUST1022,Shirt,Clothing,12-03-2024,North,1,271.83,271.83,Credit Card
+ORD0171,CUST1082,Lamp,Home,02-04-2024,North,1,365.8,365.8,Cash on Delivery
+ORD0172,CUST1000,Chair,Home,01-04-2024,West,1,128.13,128.13,Cash on Delivery
+ORD0173,CUST1064,Tablet,Electronics,21-03-2024,East,3,144.62,433.86,Credit Card
+ORD0174,CUST1091,Chair,Home,03-02-2023,East,1,380.93,380.93,Debit Card
+ORD0175,CUST1033,Biography,Books,03-06-2023,East,3,65.64,196.92,Debit Card
+ORD0176,CUST1011,Jacket,Clothing,02-11-2023,West,2,388.44,776.88,Cash on Delivery
+ORD0177,CUST1093,Table,Home,24-01-2024,North,1,280.43,280.43,PayPal
+ORD0178,CUST1046,Lipstick,Beauty,05-02-2024,East,2,397.99,795.98,PayPal
+ORD0179,CUST1050,Comics,Books,16-03-2023,South,3,380.02,1140.06,Cash on Delivery
+ORD0180,CUST1097,Jacket,Clothing,02-11-2023,South,3,76.82,230.46,Credit Card
+ORD0181,CUST1062,Headphones,Electronics,10-03-2024,North,2,202.2,404.4,PayPal
+ORD0182,CUST1096,Lotion,Beauty,15-06-2023,West,2,180.65,361.3,Credit Card
+ORD0183,CUST1050,Perfume,Beauty,16-04-2023,North,4,456.13,1824.52,Debit Card
+ORD0184,CUST1055,Lotion,Beauty,18-05-2023,West,1,475.27,475.27,Cash on Delivery
+ORD0185,CUST1083,Comics,Books,22-05-2024,North,1,251.14,251.14,Debit Card
+ORD0186,CUST1065,Non-Fiction,Books,22-02-2023,North,4,32.47,129.88,PayPal
+ORD0187,CUST1074,Non-Fiction,Books,12-02-2023,West,1,112.47,112.47,Cash on Delivery
+ORD0188,CUST1079,Lipstick,Beauty,02-07-2023,East,3,273.26,819.78,Cash on Delivery
+ORD0189,CUST1003,Table,Home,03-06-2024,West,3,206.15,618.45,Debit Card
+ORD0190,CUST1066,Shirt,Clothing,08-10-2023,North,4,351.29,1405.16,Cash on Delivery
+ORD0191,CUST1031,Fiction,Books,03-04-2023,East,4,242.24,968.96,Credit Card
+ORD0192,CUST1018,Lamp,Home,20-02-2023,North,2,304.95,609.9,Debit Card
+ORD0193,CUST1020,Lotion,Beauty,17-06-2024,North,1,92.78,92.78,PayPal
+ORD0194,CUST1011,Jeans,Clothing,21-08-2023,East,2,69.11,138.22,Credit Card
+ORD0195,CUST1089,Smartphone,Electronics,19-03-2023,North,2,448.17,896.34,Debit Card
+ORD0196,CUST1046,Jeans,Clothing,06-09-2023,East,1,167.58,167.58,Debit Card
+ORD0197,CUST1093,Jeans,Clothing,25-02-2023,South,1,347.01,347.01,Debit Card
+ORD0198,CUST1025,Tablet,Electronics,03-12-2023,East,3,461.23,1383.69,Debit Card
+ORD0199,CUST1051,Smartphone,Electronics,10-09-2023,East,4,405.04,1620.16,Credit Card
+ORD0200,CUST1085,Laptop,Electronics,25-02-2023,West,3,272.93,818.79,Credit Card
+ORD0201,CUST1087,Lamp,Home,19-03-2023,South,2,312.94,625.88,Credit Card
+ORD0202,CUST1058,Smartphone,Electronics,09-06-2024,North,2,376.26,752.52,Credit Card
+ORD0203,CUST1022,Chair,Home,03-01-2023,West,4,75.23,300.92,Credit Card
+ORD0204,CUST1017,Jeans,Clothing,22-05-2024,North,2,377.31,754.62,PayPal
+ORD0205,CUST1063,Sofa,Home,15-01-2023,West,2,183.53,367.06,Credit Card
+ORD0206,CUST1073,Foundation,Beauty,28-01-2023,North,1,371.33,371.33,PayPal
+ORD0207,CUST1085,Shirt,Clothing,19-08-2023,East,3,167.82,503.46,PayPal
+ORD0208,CUST1016,Non-Fiction,Books,20-06-2024,North,2,272.31,544.62,Cash on Delivery
+ORD0209,CUST1066,Table,Home,29-01-2024,North,1,300.86,300.86,PayPal
+ORD0210,CUST1099,Tablet,Electronics,21-04-2023,West,1,254.24,254.24,Credit Card
+ORD0211,CUST1082,Headphones,Electronics,04-01-2024,North,3,371.04,1113.12,PayPal
+ORD0212,CUST1051,Headphones,Electronics,01-06-2024,West,2,149.05,298.1,PayPal
+ORD0213,CUST1055,Lipstick,Beauty,18-03-2024,South,2,307.7,615.4,PayPal
+ORD0214,CUST1032,Tablet,Electronics,12-01-2024,East,3,493.39,1480.17,Debit Card
+ORD0215,CUST1003,Jeans,Clothing,17-05-2024,North,1,59.87,59.87,Debit Card
+ORD0216,CUST1094,Foundation,Beauty,16-12-2023,East,2,101.42,202.84,Cash on Delivery
+ORD0217,CUST1030,Comics,Books,31-08-2023,East,4,449.42,1797.68,Cash on Delivery
+ORD0218,CUST1005,Table,Home,11-08-2023,West,4,351.51,1406.04,Debit Card
+ORD0219,CUST1003,Tablet,Electronics,16-03-2023,East,2,292.24,584.48,Debit Card
+ORD0220,CUST1050,Jeans,Clothing,18-05-2024,South,3,410.37,1231.11,Credit Card
+ORD0221,CUST1025,Smartphone,Electronics,27-01-2024,East,2,465.39,930.78,PayPal
+ORD0222,CUST1025,Tablet,Electronics,22-11-2023,North,3,420.91,1262.73,Credit Card
+ORD0223,CUST1019,Tablet,Electronics,13-08-2023,South,2,358.37,716.74,Credit Card
+ORD0224,CUST1089,Non-Fiction,Books,01-01-2023,North,1,269.62,269.62,Debit Card
+ORD0225,CUST1099,Sofa,Home,19-05-2023,East,2,151.43,302.86,Credit Card
+ORD0226,CUST1004,Headphones,Electronics,10-01-2023,West,1,270.97,270.97,Credit Card
+ORD0227,CUST1039,Lipstick,Beauty,13-01-2023,East,3,278.97,836.91,Credit Card
+ORD0228,CUST1072,Laptop,Electronics,15-11-2023,West,2,53.06,106.12,Cash on Delivery
+ORD0229,CUST1093,Shirt,Clothing,23-02-2024,South,1,67.18,67.18,Cash on Delivery
+ORD0230,CUST1059,Fiction,Books,14-11-2023,East,3,465.47,1396.41,Credit Card
+ORD0231,CUST1074,Comics,Books,11-01-2024,East,4,210.17,840.68,Credit Card
+ORD0232,CUST1039,Tablet,Electronics,27-05-2024,North,1,110.45,110.45,Cash on Delivery
+ORD0233,CUST1071,Shoes,Clothing,15-12-2023,West,4,291.49,1165.96,Debit Card
+ORD0234,CUST1059,Biography,Books,27-09-2023,North,3,399.68,1199.04,Debit Card
+ORD0235,CUST1004,Lotion,Beauty,14-06-2023,West,2,414.32,828.64,PayPal
+ORD0236,CUST1061,Lamp,Home,14-02-2024,East,3,335.95,1007.85,Cash on Delivery
+ORD0237,CUST1088,Lotion,Beauty,11-02-2023,West,4,164.94,659.76,Debit Card
+ORD0238,CUST1013,Laptop,Electronics,22-10-2023,West,2,410.13,820.26,Credit Card
+ORD0239,CUST1096,Jacket,Clothing,26-02-2024,East,4,236.71,946.84,Debit Card
+ORD0240,CUST1096,Lamp,Home,25-05-2023,North,3,224.98,674.94,Debit Card
+ORD0241,CUST1050,Tablet,Electronics,14-04-2023,North,3,198.11,594.33,Credit Card
+ORD0242,CUST1050,Non-Fiction,Books,26-01-2024,East,3,67.28,201.84,Credit Card
+ORD0243,CUST1014,Chair,Home,14-05-2024,East,4,349.92,1399.68,PayPal
+ORD0244,CUST1026,Smartphone,Electronics,22-04-2024,South,3,313.84,941.52,Debit Card
+ORD0245,CUST1096,Non-Fiction,Books,16-03-2024,West,4,498.87,1995.48,Debit Card
+ORD0246,CUST1067,Non-Fiction,Books,16-10-2023,East,1,131.76,131.76,Cash on Delivery
+ORD0247,CUST1073,Chair,Home,31-05-2024,East,2,359.89,719.78,PayPal
+ORD0248,CUST1046,Headphones,Electronics,08-06-2023,North,1,60.43,60.43,Cash on Delivery
+ORD0249,CUST1028,Headphones,Electronics,15-01-2023,West,4,233.93,935.72,PayPal
+ORD0250,CUST1067,Shirt,Clothing,16-02-2023,East,4,83.46,333.84,Debit Card
+ORD0251,CUST1094,Biography,Books,15-02-2024,North,4,388.22,1552.88,Debit Card
+ORD0252,CUST1025,Fiction,Books,19-10-2023,West,3,350.03,1050.09,Cash on Delivery
+ORD0253,CUST1073,Foundation,Beauty,11-01-2023,North,3,303.52,910.56,PayPal
+ORD0254,CUST1046,Foundation,Beauty,23-01-2023,South,4,295.86,1183.44,PayPal
+ORD0255,CUST1089,Tablet,Electronics,31-01-2024,East,2,474.17,948.34,Cash on Delivery
+ORD0256,CUST1088,Perfume,Beauty,29-07-2023,West,1,78.17,78.17,Debit Card
+ORD0257,CUST1099,Shirt,Clothing,04-04-2024,West,1,18.87,18.87,Cash on Delivery
+ORD0258,CUST1091,Shirt,Clothing,07-05-2023,East,4,351.36,1405.44,Cash on Delivery
+ORD0259,CUST1028,Table,Home,20-02-2023,North,3,307.29,921.87,Cash on Delivery
+ORD0260,CUST1000,Tablet,Electronics,11-02-2024,East,2,467.84,935.68,PayPal
+ORD0261,CUST1035,Comics,Books,12-12-2023,East,2,125.59,251.18,PayPal
+ORD0262,CUST1062,Lotion,Beauty,01-01-2023,East,2,420.37,840.74,PayPal
+ORD0263,CUST1072,Biography,Books,06-03-2024,South,2,264.23,528.46,Credit Card
+ORD0264,CUST1056,Tablet,Electronics,11-03-2024,North,1,174.25,174.25,PayPal
+ORD0265,CUST1024,Biography,Books,01-09-2023,South,1,305.82,305.82,Debit Card
+ORD0266,CUST1006,Headphones,Electronics,21-01-2024,North,2,460.73,921.46,Cash on Delivery
+ORD0267,CUST1016,Comics,Books,13-12-2023,South,2,245.61,491.22,Cash on Delivery
+ORD0268,CUST1053,Shirt,Clothing,28-06-2023,South,4,120.06,480.24,Credit Card
+ORD0269,CUST1069,Foundation,Beauty,29-06-2023,South,4,293.04,1172.16,Cash on Delivery
+ORD0270,CUST1028,Lipstick,Beauty,26-06-2023,East,1,458.27,458.27,Cash on Delivery
+ORD0271,CUST1084,Lotion,Beauty,05-06-2023,East,3,146.02,438.06,Cash on Delivery
+ORD0272,CUST1048,Smartphone,Electronics,25-03-2023,West,1,97.24,97.24,PayPal
+ORD0273,CUST1062,Shoes,Clothing,20-04-2024,South,4,213.17,852.68,PayPal
+ORD0274,CUST1000,Tablet,Electronics,23-11-2023,West,1,100.39,100.39,Credit Card
+ORD0275,CUST1050,Headphones,Electronics,03-08-2023,South,4,42.87,171.48,Cash on Delivery
+ORD0276,CUST1031,Biography,Books,14-11-2023,North,3,401.89,1205.67,PayPal
+ORD0277,CUST1092,Fiction,Books,04-03-2024,North,2,103.44,206.88,Debit Card
+ORD0278,CUST1017,Headphones,Electronics,19-01-2023,West,2,419.92,839.84,Credit Card
+ORD0279,CUST1065,Laptop,Electronics,24-06-2023,West,1,390.01,390.01,PayPal
+ORD0280,CUST1093,Lipstick,Beauty,24-04-2023,West,2,225.97,451.94,Credit Card
+ORD0281,CUST1028,Lipstick,Beauty,21-09-2023,East,2,385.02,770.04,Credit Card
+ORD0282,CUST1082,Smartphone,Electronics,02-04-2024,West,3,473.6,1420.8,Debit Card
+ORD0283,CUST1054,Smartphone,Electronics,28-03-2023,North,2,268.02,536.04,Credit Card
+ORD0284,CUST1092,Shirt,Clothing,26-01-2024,South,4,421.5,1686,Cash on Delivery
+ORD0285,CUST1071,Foundation,Beauty,18-03-2024,North,4,23.28,93.12,Debit Card
+ORD0286,CUST1066,Shirt,Clothing,17-08-2023,South,2,176.24,352.48,Credit Card
+ORD0287,CUST1033,Lotion,Beauty,21-09-2023,East,3,329.85,989.55,Cash on Delivery
+ORD0288,CUST1031,Foundation,Beauty,19-03-2023,South,3,129.15,387.45,Credit Card
+ORD0289,CUST1036,Comics,Books,27-03-2024,East,4,405.36,1621.44,Debit Card
+ORD0290,CUST1073,Jeans,Clothing,07-01-2023,West,2,110.44,220.88,Debit Card
+ORD0291,CUST1018,Shoes,Clothing,26-03-2023,North,3,370.59,1111.77,Cash on Delivery
+ORD0292,CUST1059,Jeans,Clothing,12-10-2023,East,4,98.9,395.6,Credit Card
+ORD0293,CUST1001,Laptop,Electronics,06-06-2024,West,2,447.41,894.82,Cash on Delivery
+ORD0294,CUST1019,Comics,Books,31-01-2024,West,3,299.24,897.72,Credit Card
+ORD0295,CUST1093,Headphones,Electronics,13-09-2023,North,1,179.14,179.14,PayPal
+ORD0296,CUST1085,Foundation,Beauty,14-05-2024,North,1,223.7,223.7,Credit Card
+ORD0297,CUST1058,Jeans,Clothing,07-06-2023,North,4,78.66,314.64,Cash on Delivery
+ORD0298,CUST1080,Lipstick,Beauty,25-04-2023,West,2,240.82,481.64,Credit Card
+ORD0299,CUST1024,Shoes,Clothing,25-08-2023,East,2,373.43,746.86,Cash on Delivery
+ORD0300,CUST1003,Non-Fiction,Books,05-10-2023,North,3,116.83,350.49,Debit Card
+ORD0301,CUST1097,Jeans,Clothing,19-04-2023,West,2,267.59,535.18,Cash on Delivery
+ORD0302,CUST1084,Sofa,Home,26-05-2023,South,3,344.76,1034.28,Credit Card
+ORD0303,CUST1016,Shirt,Clothing,03-02-2023,North,2,292.49,584.98,PayPal
+ORD0304,CUST1075,Lotion,Beauty,13-01-2024,West,1,329.2,329.2,Credit Card
+ORD0305,CUST1084,Perfume,Beauty,08-12-2023,West,3,62.22,186.66,Debit Card
+ORD0306,CUST1097,Lotion,Beauty,17-06-2023,South,3,451.01,1353.03,PayPal
+ORD0307,CUST1009,Biography,Books,30-03-2024,East,4,320.22,1280.88,PayPal
+ORD0308,CUST1061,Shirt,Clothing,20-04-2024,East,1,420.67,420.67,Debit Card
+ORD0309,CUST1053,Chair,Home,10-05-2023,West,2,216.8,433.6,Debit Card
+ORD0310,CUST1025,Lipstick,Beauty,19-10-2023,North,3,100.34,301.02,Credit Card
+ORD0311,CUST1010,Lamp,Home,23-10-2023,West,1,200.75,200.75,Cash on Delivery
+ORD0312,CUST1038,Non-Fiction,Books,06-07-2023,South,4,458.6,1834.4,Cash on Delivery
+ORD0313,CUST1054,Lipstick,Beauty,08-04-2023,North,4,287.54,1150.16,PayPal
+ORD0314,CUST1068,Shirt,Clothing,10-02-2024,West,3,477.5,1432.5,Cash on Delivery
+ORD0315,CUST1082,Perfume,Beauty,28-05-2023,South,4,115.32,461.28,Debit Card
+ORD0316,CUST1097,Sofa,Home,21-05-2024,East,3,422.35,1267.05,Credit Card
+ORD0317,CUST1072,Lipstick,Beauty,15-05-2024,East,1,387.75,387.75,PayPal
+ORD0318,CUST1060,Shoes,Clothing,05-08-2023,East,1,182.25,182.25,PayPal
+ORD0319,CUST1038,Perfume,Beauty,25-01-2023,East,3,303.16,909.48,Debit Card
+ORD0320,CUST1043,Lamp,Home,17-08-2023,North,3,411.36,1234.08,PayPal
+ORD0321,CUST1018,Chair,Home,07-06-2024,East,3,143.35,430.05,Cash on Delivery
+ORD0322,CUST1073,Biography,Books,17-01-2023,South,1,54.88,54.88,Credit Card
+ORD0323,CUST1061,Laptop,Electronics,12-01-2023,East,1,228.54,228.54,Debit Card
+ORD0324,CUST1086,Shoes,Clothing,22-03-2023,East,4,437.74,1750.96,PayPal
+ORD0325,CUST1024,Foundation,Beauty,19-07-2023,South,1,349.22,349.22,PayPal
+ORD0326,CUST1025,Comics,Books,03-05-2024,East,2,249.82,499.64,Debit Card
+ORD0327,CUST1070,Biography,Books,16-01-2023,North,3,31.64,94.92,PayPal
+ORD0328,CUST1006,Lotion,Beauty,27-03-2023,East,1,98.48,98.48,Debit Card
+ORD0329,CUST1008,Smartphone,Electronics,02-06-2024,North,2,69.06,138.12,Credit Card
+ORD0330,CUST1058,Perfume,Beauty,12-05-2024,South,3,462.95,1388.85,PayPal
+ORD0331,CUST1093,Sofa,Home,11-08-2023,West,3,399.72,1199.16,Credit Card
+ORD0332,CUST1058,Jacket,Clothing,06-02-2024,South,4,423.83,1695.32,Credit Card
+ORD0333,CUST1030,Lipstick,Beauty,09-06-2024,West,2,325.83,651.66,PayPal
+ORD0334,CUST1044,Table,Home,07-07-2023,North,4,122.7,490.8,Credit Card
+ORD0335,CUST1039,Lipstick,Beauty,20-06-2023,South,2,443.65,887.3,Credit Card
+ORD0336,CUST1038,Smartphone,Electronics,30-12-2023,North,2,365.14,730.28,Cash on Delivery
+ORD0337,CUST1092,Chair,Home,30-05-2024,East,3,403.95,1211.85,Cash on Delivery
+ORD0338,CUST1015,Foundation,Beauty,10-06-2023,South,2,166.19,332.38,PayPal
+ORD0339,CUST1054,Biography,Books,25-03-2024,North,1,311.77,311.77,Credit Card
+ORD0340,CUST1012,Biography,Books,18-02-2024,West,3,436.35,1309.05,Debit Card
+ORD0341,CUST1045,Fiction,Books,08-02-2023,North,1,198.14,198.14,PayPal
+ORD0342,CUST1061,Smartphone,Electronics,21-04-2024,West,4,35.82,143.28,PayPal
+ORD0343,CUST1055,Chair,Home,29-09-2023,West,1,245.09,245.09,Credit Card
+ORD0344,CUST1029,Fiction,Books,23-09-2023,South,4,492.2,1968.8,Debit Card
+ORD0345,CUST1004,Biography,Books,06-12-2023,East,1,174.82,174.82,Credit Card
+ORD0346,CUST1044,Comics,Books,03-01-2023,East,1,127,127,Credit Card
+ORD0347,CUST1017,Fiction,Books,20-11-2023,West,2,155.53,311.06,Credit Card
+ORD0348,CUST1064,Sofa,Home,07-03-2024,West,2,298.66,597.32,PayPal
+ORD0349,CUST1048,Shirt,Clothing,03-02-2024,West,1,493.98,493.98,Debit Card
+ORD0350,CUST1058,Chair,Home,20-05-2023,East,1,343.03,343.03,Cash on Delivery
+ORD0351,CUST1069,Jeans,Clothing,15-01-2024,West,2,401.01,802.02,Credit Card
+ORD0352,CUST1087,Tablet,Electronics,29-10-2023,North,3,440.77,1322.31,Cash on Delivery
+ORD0353,CUST1024,Biography,Books,14-08-2023,North,3,452.82,1358.46,PayPal
+ORD0354,CUST1073,Lotion,Beauty,06-11-2023,North,3,495.67,1487.01,Debit Card
+ORD0355,CUST1040,Non-Fiction,Books,06-08-2023,North,3,96.5,289.5,Credit Card
+ORD0356,CUST1004,Jacket,Clothing,31-05-2024,North,1,479.06,479.06,Credit Card
+ORD0357,CUST1098,Foundation,Beauty,04-06-2024,East,2,484.86,969.72,Debit Card
+ORD0358,CUST1034,Biography,Books,04-05-2024,East,4,497.5,1990,Debit Card
+ORD0359,CUST1087,Non-Fiction,Books,25-05-2023,South,2,250.68,501.36,Cash on Delivery
+ORD0360,CUST1088,Chair,Home,30-04-2023,North,3,409.76,1229.28,Cash on Delivery
+ORD0361,CUST1097,Shirt,Clothing,23-12-2023,North,1,448.51,448.51,PayPal
+ORD0362,CUST1091,Fiction,Books,19-11-2023,East,3,439.96,1319.88,PayPal
+ORD0363,CUST1041,Chair,Home,28-11-2023,West,1,445.49,445.49,Credit Card
+ORD0364,CUST1004,Headphones,Electronics,20-06-2024,East,1,171.24,171.24,Credit Card
+ORD0365,CUST1078,Tablet,Electronics,04-05-2023,West,3,52.62,157.86,PayPal
+ORD0366,CUST1089,Comics,Books,25-06-2023,South,2,137.28,274.56,Cash on Delivery
+ORD0367,CUST1047,Jacket,Clothing,12-11-2023,South,2,49.71,99.42,Cash on Delivery
+ORD0368,CUST1039,Laptop,Electronics,24-04-2023,East,1,448.3,448.3,Debit Card
+ORD0369,CUST1057,Fiction,Books,15-12-2023,North,1,245.49,245.49,PayPal
+ORD0370,CUST1090,Biography,Books,09-02-2023,North,3,180.43,541.29,Cash on Delivery
+ORD0371,CUST1087,Table,Home,19-09-2023,South,1,140.84,140.84,Credit Card
+ORD0372,CUST1096,Non-Fiction,Books,02-04-2023,North,3,435.4,1306.2,Cash on Delivery
+ORD0373,CUST1044,Comics,Books,29-12-2023,South,3,434.97,1304.91,Debit Card
+ORD0374,CUST1062,Fiction,Books,22-12-2023,South,1,465.74,465.74,Debit Card
+ORD0375,CUST1004,Fiction,Books,07-01-2023,South,3,378.83,1136.49,Debit Card
+ORD0376,CUST1022,Lotion,Beauty,31-01-2023,North,3,481.04,1443.12,Credit Card
+ORD0377,CUST1052,Perfume,Beauty,29-12-2023,North,2,73.15,146.3,Cash on Delivery
+ORD0378,CUST1099,Table,Home,23-03-2023,North,2,455.26,910.52,Credit Card
+ORD0379,CUST1038,Non-Fiction,Books,07-06-2024,North,2,417.75,835.5,PayPal
+ORD0380,CUST1026,Comics,Books,15-02-2023,East,2,150.65,301.3,Debit Card
+ORD0381,CUST1094,Jeans,Clothing,26-12-2023,East,1,284.32,284.32,Debit Card
+ORD0382,CUST1034,Jacket,Clothing,31-12-2023,East,2,320.66,641.32,PayPal
+ORD0383,CUST1070,Shirt,Clothing,18-02-2024,South,4,62.42,249.68,PayPal
+ORD0384,CUST1059,Lotion,Beauty,16-02-2024,West,2,221.8,443.6,Cash on Delivery
+ORD0385,CUST1067,Biography,Books,05-10-2023,East,3,466.69,1400.07,Debit Card
+ORD0386,CUST1067,Foundation,Beauty,30-08-2023,North,4,347.06,1388.24,Credit Card
+ORD0387,CUST1021,Smartphone,Electronics,07-06-2024,South,3,91.53,274.59,PayPal
+ORD0388,CUST1089,Table,Home,22-01-2023,West,1,295.26,295.26,Credit Card
+ORD0389,CUST1013,Chair,Home,02-11-2023,West,4,32.41,129.64,Cash on Delivery
+ORD0390,CUST1051,Laptop,Electronics,15-08-2023,North,4,341.27,1365.08,PayPal
+ORD0391,CUST1010,Comics,Books,29-01-2023,South,1,197.97,197.97,Debit Card
+ORD0392,CUST1031,Non-Fiction,Books,20-03-2023,North,1,168.57,168.57,PayPal
+ORD0393,CUST1097,Lotion,Beauty,21-06-2024,West,3,133.73,401.19,Cash on Delivery
+ORD0394,CUST1080,Table,Home,30-05-2024,South,2,239.58,479.16,PayPal
+ORD0395,CUST1014,Lipstick,Beauty,08-02-2023,East,3,231.18,693.54,Cash on Delivery
+ORD0396,CUST1031,Shirt,Clothing,16-03-2023,East,3,414.7,1244.1,Credit Card
+ORD0397,CUST1021,Lamp,Home,25-03-2023,East,2,388.68,777.36,Credit Card
+ORD0398,CUST1055,Perfume,Beauty,17-01-2024,East,3,143.9,431.7,Credit Card
+ORD0399,CUST1079,Tablet,Electronics,30-10-2023,South,4,368.32,1473.28,Credit Card
+ORD0400,CUST1002,Sofa,Home,28-03-2024,South,1,322.88,322.88,Cash on Delivery
+ORD0401,CUST1033,Jacket,Clothing,10-06-2024,South,3,210.57,631.71,Debit Card
+ORD0402,CUST1017,Table,Home,07-06-2024,South,1,108.18,108.18,PayPal
+ORD0403,CUST1071,Tablet,Electronics,22-06-2024,South,3,241.05,723.15,Debit Card
+ORD0404,CUST1007,Jacket,Clothing,05-11-2023,East,4,100.91,403.64,PayPal
+ORD0405,CUST1002,Sofa,Home,18-07-2023,West,3,232.31,696.93,Cash on Delivery
+ORD0406,CUST1059,Lamp,Home,19-06-2024,East,1,74.31,74.31,Cash on Delivery
+ORD0407,CUST1024,Fiction,Books,10-06-2024,West,2,312.16,624.32,Cash on Delivery
+ORD0408,CUST1083,Tablet,Electronics,30-09-2023,West,2,67.48,134.96,Credit Card
+ORD0409,CUST1001,Non-Fiction,Books,15-05-2024,North,4,283.62,1134.48,PayPal
+ORD0410,CUST1076,Lotion,Beauty,05-03-2023,West,4,222.29,889.16,Debit Card
+ORD0411,CUST1093,Smartphone,Electronics,01-10-2023,East,1,15.69,15.69,PayPal
+ORD0412,CUST1094,Lipstick,Beauty,09-05-2024,West,4,203.82,815.28,Debit Card
+ORD0413,CUST1088,Smartphone,Electronics,28-10-2023,East,2,152.91,305.82,Credit Card
+ORD0414,CUST1007,Non-Fiction,Books,29-02-2024,South,1,476.8,476.8,Credit Card
+ORD0415,CUST1040,Perfume,Beauty,29-03-2023,West,3,245.45,736.35,Debit Card
+ORD0416,CUST1031,Headphones,Electronics,15-02-2023,South,1,60.37,60.37,Cash on Delivery
+ORD0417,CUST1091,Shoes,Clothing,27-03-2023,South,3,254.46,763.38,Credit Card
+ORD0418,CUST1096,Comics,Books,30-08-2023,West,4,179.55,718.2,Credit Card
+ORD0419,CUST1025,Lotion,Beauty,26-04-2023,South,2,271.78,543.56,Credit Card
+ORD0420,CUST1089,Foundation,Beauty,15-06-2023,West,2,167.83,335.66,PayPal
+ORD0421,CUST1097,Shirt,Clothing,23-05-2023,East,2,349.67,699.34,Debit Card
+ORD0422,CUST1074,Foundation,Beauty,01-11-2023,East,2,92.07,184.14,Debit Card
+ORD0423,CUST1005,Jacket,Clothing,09-01-2023,West,1,356.17,356.17,Credit Card
+ORD0424,CUST1040,Fiction,Books,20-02-2024,South,1,35.47,35.47,Credit Card
+ORD0425,CUST1083,Lotion,Beauty,14-11-2023,East,2,468.25,936.5,PayPal
+ORD0426,CUST1006,Fiction,Books,18-01-2024,West,2,310.01,620.02,PayPal
+ORD0427,CUST1057,Laptop,Electronics,25-01-2024,East,3,448.46,1345.38,Cash on Delivery
+ORD0428,CUST1040,Comics,Books,29-05-2024,North,2,231.64,463.28,PayPal
+ORD0429,CUST1086,Table,Home,12-01-2023,East,4,368.48,1473.92,PayPal
+ORD0430,CUST1018,Shirt,Clothing,28-10-2023,South,4,88.18,352.72,PayPal
+ORD0431,CUST1054,Non-Fiction,Books,05-11-2023,North,3,240.39,721.17,Debit Card
+ORD0432,CUST1055,Jacket,Clothing,18-12-2023,West,4,254.12,1016.48,PayPal
+ORD0433,CUST1060,Tablet,Electronics,04-02-2023,East,1,251.71,251.71,Credit Card
+ORD0434,CUST1096,Lipstick,Beauty,26-07-2023,West,1,215.02,215.02,Cash on Delivery
+ORD0435,CUST1057,Jacket,Clothing,08-06-2023,South,3,236.69,710.07,Debit Card
+ORD0436,CUST1091,Chair,Home,30-05-2024,West,1,424.66,424.66,PayPal
+ORD0437,CUST1049,Laptop,Electronics,01-06-2023,East,4,386.18,1544.72,Credit Card
+ORD0438,CUST1097,Smartphone,Electronics,24-02-2024,North,1,261.86,261.86,Credit Card
+ORD0439,CUST1033,Table,Home,01-12-2023,North,4,307.03,1228.12,Credit Card
+ORD0440,CUST1057,Chair,Home,06-01-2024,West,4,216.64,866.56,Debit Card
+ORD0441,CUST1017,Fiction,Books,25-08-2023,South,2,185.98,371.96,Debit Card
+ORD0442,CUST1099,Lotion,Beauty,03-06-2024,North,4,419.64,1678.56,Credit Card
+ORD0443,CUST1043,Perfume,Beauty,25-10-2023,North,4,304.91,1219.64,Debit Card
+ORD0444,CUST1036,Lotion,Beauty,10-01-2024,North,2,485.98,971.96,Credit Card
+ORD0445,CUST1059,Perfume,Beauty,14-11-2023,South,1,43.88,43.88,Debit Card
+ORD0446,CUST1088,Shoes,Clothing,18-05-2024,North,1,228.2,228.2,Cash on Delivery
+ORD0447,CUST1088,Lamp,Home,25-05-2023,South,4,300.55,1202.2,Credit Card
+ORD0448,CUST1004,Fiction,Books,12-06-2023,North,1,205.53,205.53,Debit Card
+ORD0449,CUST1055,Lipstick,Beauty,04-04-2024,South,3,298.32,894.96,Cash on Delivery
+ORD0450,CUST1030,Laptop,Electronics,30-10-2023,North,4,485.21,1940.84,PayPal
+ORD0451,CUST1079,Fiction,Books,27-09-2023,East,3,443.02,1329.06,PayPal
+ORD0452,CUST1000,Smartphone,Electronics,27-12-2023,South,2,229.9,459.8,PayPal
+ORD0453,CUST1056,Jeans,Clothing,27-05-2024,West,1,131.87,131.87,PayPal
+ORD0454,CUST1036,Jeans,Clothing,11-10-2023,North,4,186.03,744.12,PayPal
+ORD0455,CUST1048,Sofa,Home,14-06-2023,South,3,335.26,1005.78,Debit Card
+ORD0456,CUST1078,Biography,Books,05-06-2023,South,1,355.64,355.64,Credit Card
+ORD0457,CUST1001,Lamp,Home,30-11-2023,West,2,110.86,221.72,PayPal
+ORD0458,CUST1025,Shirt,Clothing,20-01-2023,South,1,270.27,270.27,PayPal
+ORD0459,CUST1069,Tablet,Electronics,04-02-2023,North,1,323.6,323.6,PayPal
+ORD0460,CUST1050,Chair,Home,10-06-2023,South,1,467.6,467.6,Cash on Delivery
+ORD0461,CUST1052,Perfume,Beauty,03-10-2023,East,2,347.22,694.44,Credit Card
+ORD0462,CUST1097,Shirt,Clothing,06-05-2023,West,2,482.91,965.82,Debit Card
+ORD0463,CUST1038,Headphones,Electronics,04-07-2023,West,1,323.17,323.17,PayPal
+ORD0464,CUST1049,Laptop,Electronics,02-03-2024,East,3,134.57,403.71,Credit Card
+ORD0465,CUST1044,Laptop,Electronics,31-05-2023,South,3,336.76,1010.28,Credit Card
+ORD0466,CUST1007,Laptop,Electronics,10-01-2024,North,4,355.29,1421.16,Cash on Delivery
+ORD0467,CUST1004,Lamp,Home,18-12-2023,South,2,102.29,204.58,Credit Card
+ORD0468,CUST1054,Chair,Home,12-07-2023,West,3,96.8,290.4,Cash on Delivery
+ORD0469,CUST1081,Shirt,Clothing,18-02-2024,West,3,472.86,1418.58,Debit Card
+ORD0470,CUST1075,Table,Home,30-10-2023,North,1,417.13,417.13,Debit Card
+ORD0471,CUST1018,Shirt,Clothing,01-01-2023,South,3,466.16,1398.48,Cash on Delivery
+ORD0472,CUST1047,Jacket,Clothing,22-02-2023,West,3,332.85,998.55,Cash on Delivery
+ORD0473,CUST1065,Headphones,Electronics,08-08-2023,North,1,292.82,292.82,Cash on Delivery
+ORD0474,CUST1040,Comics,Books,10-06-2023,East,2,306.43,612.86,PayPal
+ORD0475,CUST1074,Fiction,Books,08-06-2023,North,1,436.67,436.67,PayPal
+ORD0476,CUST1003,Chair,Home,12-04-2023,South,4,328.75,1315,Cash on Delivery
+ORD0477,CUST1081,Fiction,Books,26-04-2024,North,2,224.7,449.4,PayPal
+ORD0478,CUST1074,Sofa,Home,31-12-2023,South,1,400.93,400.93,Credit Card
+ORD0479,CUST1088,Laptop,Electronics,30-03-2024,East,1,68.9,68.9,Credit Card
+ORD0480,CUST1070,Lotion,Beauty,17-03-2023,East,1,169.05,169.05,Debit Card
+ORD0481,CUST1032,Lotion,Beauty,17-04-2024,East,3,350.78,1052.34,Debit Card
+ORD0482,CUST1043,Table,Home,18-10-2023,South,1,277.39,277.39,Credit Card
+ORD0483,CUST1084,Foundation,Beauty,03-01-2023,South,2,45.87,91.74,Credit Card
+ORD0484,CUST1069,Foundation,Beauty,25-03-2024,South,2,476.22,952.44,Credit Card
+ORD0485,CUST1024,Fiction,Books,03-06-2023,West,4,22.56,90.24,Cash on Delivery
+ORD0486,CUST1036,Table,Home,31-10-2023,South,4,83.01,332.04,Debit Card
+ORD0487,CUST1047,Sofa,Home,12-02-2023,North,3,271.47,814.41,Debit Card
+ORD0488,CUST1042,Sofa,Home,12-05-2024,South,3,408.36,1225.08,Credit Card
+ORD0489,CUST1046,Headphones,Electronics,02-12-2023,South,1,412.97,412.97,PayPal
+ORD0490,CUST1014,Fiction,Books,20-02-2023,West,1,450.03,450.03,Cash on Delivery
+ORD0491,CUST1018,Table,Home,14-04-2024,South,4,467.87,1871.48,Cash on Delivery
+ORD0492,CUST1051,Tablet,Electronics,08-01-2024,West,2,91.5,183,Credit Card
+ORD0493,CUST1034,Biography,Books,05-06-2023,West,2,160.57,321.14,Debit Card
+ORD0494,CUST1029,Jeans,Clothing,24-02-2024,South,4,162.54,650.16,Cash on Delivery
+ORD0495,CUST1088,Shoes,Clothing,31-03-2023,East,2,205.95,411.9,Credit Card
+ORD0496,CUST1073,Lamp,Home,17-12-2023,North,2,98.76,197.52,PayPal
+ORD0497,CUST1041,Foundation,Beauty,08-11-2023,East,3,267.33,801.99,Cash on Delivery
+ORD0498,CUST1083,Shirt,Clothing,05-02-2023,East,1,135.72,135.72,PayPal
+ORD0499,CUST1043,Foundation,Beauty,20-01-2024,North,4,52.65,210.6,Debit Card
+ORD0500,CUST1021,Comics,Books,21-05-2023,West,4,267.98,1071.92,Cash on Delivery
